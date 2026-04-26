@@ -1,16 +1,33 @@
-​## Stephen Curry: 2021-2022 Efficiency Masterclass 🏀
-​Project Overview
-​A comprehensive data analysis project investigating Stephen Curry’s performance metrics during the 2022 NBA Championship run. This project focuses on Curry's efficiency, comparing his 2022 stats to other elite players and his own previous championship seasons.
-​Key Features & Insights
-​Efficiency Analysis: Investigating how Curry led the Warriors to a title while playing fewer minutes on average (37.44 MP).
-​Scoring Breakdown: Visualizing the balance between 2PT vs 3PT shooting (Curry maintained a 73.58% 3PT scoring share in key segments).
-​Playoff Evolution: Statistical growth analysis over the course of a career and championship intensity.
-​Interactive Dashboard: A multi-page Power BI report featuring automated tooltips and dynamic filtering.
-​Tech Stack
-​Data Cleaning: Python (Pandas library) was used to filter and clean raw NBA play-by-play (PBP) data.
-​Visualization: Power BI Desktop.
-​Data Source: Official NBA statistical data (Regular Season and Postseason).
-​How to View
-​Download the Steph_Curry_Project_V4.pbix file.
-​Open with Power BI Desktop to interact with the visuals.
-​See the Curry_Data.csv for the processed dataset used in this report.
+# Stephen Curry: 2021-2022 Efficiency Masterclass 🏀
+
+## 📖 Project Overview
+This project provides a deep-dive data analysis into *Stephen Curry’s* performance  
+during the *2022 NBA Championship run*. The analysis focuses on Curry's scoring efficiency  
+and workload management, comparing his metrics to other elite league leaders and his own  
+historical championship seasons.  
+
+---
+
+## 🚀 Key Features & Insights
+* *Efficiency Analysis:* Analyzed how Curry maintained elite production with an  
+*  average of *37.44 Minutes Played (MP)* per game.  
+* *Scoring Breakdown:* Visualized the shot distribution, highlighting a *73.58% 3-point scoring share*  
+*  in critical performance segments.  
+* *Performance vs. League:* Compared *Average Points (26.98)* and *Assists (5.07)*  
+* against top-tier players like Giannis Antetokounmpo and Devin Booker.  
+* *Interactive Design:* Developed a multi-page Power BI report with dynamic  
+*  filtering and "Efficiency Masterclass" branding.  
+
+---
+
+## 🛠️ Tech Stack
+* *Data Cleaning:* Python (Pandas) – Used for filtering and processing raw Play-by-Play (PBP) data.  
+* *Visualization:* Power BI Desktop – Advanced DAX measures and custom report layouts.  
+* *Data Source:* Official NBA statistical datasets (Regular Season & Postseason).  
+
+---
+
+## 📂 How to View
+1.  *Dashboard:* Download and open Steph_Curry_Project_V4.pbix.  
+2.  *Dataset:* The cleaned data used for this analysis is available in Curry_Data.csv.  
+3.  *Preview:* Check the uploaded screenshot for a quick look at the *Efficiency Masterclass* report page.  
